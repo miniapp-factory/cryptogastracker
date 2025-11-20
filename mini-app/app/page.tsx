@@ -1,4 +1,3 @@
-import { generateMetadata } from "@/lib/farcaster-embed";
 import GasTracker from "@/components/gas-tracker";
 import { generateMetadata } from "@/lib/farcaster-embed";
 
