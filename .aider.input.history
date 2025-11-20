@@ -1,0 +1,86 @@
+
+# 2025-11-20 14:32:40.469137
++Code the following app
++```
++GasPulse – Crypto Gas Fee Tracker
++
++Description:
++GasPulse is a simple, real-time gas tracker that displays current gas fees on Base and Ethereum networks. Users can quickly check the latest gas costs, recommended fee levels (low, average, high), and basic traffic insights.
++
++Core Functions:
++ 1. Show current gas fees for:
++ • Base
++ • Ethereum
++ 2. Display recommended gas levels:
++ • Low
++ • Average
++ • High
++ 3. Auto-update:
++ • Refresh gas data every time the user opens the app
++ • Allow manual refresh with a “Refresh Gas Data” button
++ 4. Simple UI:
++ • Gas values shown as numbers
++ • Color indicators:
++ • Green = low
++ • Yellow = average
++ • Red = high
++ 5. Extra utility:
++ • “Explain gas fee” button → AI gives a simple explanation of how gas fees work
++ • “Estimate transaction cost” → user enters gas units → app calculates estimated cost
++
++User Actions:
++ • “Check Gas Now”
++ • “Refresh Data”
++ • “Estimate Transaction Cost”
++ • “What are gas fees?”
++
++Requirements:
++ • No external API needed — use built-in AI estimation based on common gas ranges.
++ • Keep everything simple and minimalistic.
++ • The app should run fully on AI logic and internal calculations.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 14:32:40.469978
++Code the following app
++```
++GasPulse – Crypto Gas Fee Tracker
++
++Description:
++GasPulse is a simple, real-time gas tracker that displays current gas fees on Base and Ethereum networks. Users can quickly check the latest gas costs, recommended fee levels (low, average, high), and basic traffic insights.
++
++Core Functions:
++ 1. Show current gas fees for:
++ • Base
++ • Ethereum
++ 2. Display recommended gas levels:
++ • Low
++ • Average
++ • High
++ 3. Auto-update:
++ • Refresh gas data every time the user opens the app
++ • Allow manual refresh with a “Refresh Gas Data” button
++ 4. Simple UI:
++ • Gas values shown as numbers
++ • Color indicators:
++ • Green = low
++ • Yellow = average
++ • Red = high
++ 5. Extra utility:
++ • “Explain gas fee” button → AI gives a simple explanation of how gas fees work
++ • “Estimate transaction cost” → user enters gas units → app calculates estimated cost
++
++User Actions:
++ • “Check Gas Now”
++ • “Refresh Data”
++ • “Estimate Transaction Cost”
++ • “What are gas fees?”
++
++Requirements:
++ • No external API needed — use built-in AI estimation based on common gas ranges.
++ • Keep everything simple and minimalistic.
++ • The app should run fully on AI logic and internal calculations.
++```
++
++Generate an app logo and update the app metadata title and description.
